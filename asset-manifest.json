@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Anukar-Reddy/anukarreddy-portfolio/static/css/main.b88cfd9f.css",
+    "main.js": "/Anukar-Reddy/anukarreddy-portfolio/static/js/main.906b65c2.js",
+    "static/js/787.f714783d.chunk.js": "/Anukar-Reddy/anukarreddy-portfolio/static/js/787.f714783d.chunk.js",
+    "static/media/reddy1.jpg": "/Anukar-Reddy/anukarreddy-portfolio/static/media/reddy1.3117b6c96625a9ffdde2.jpg",
+    "static/media/menu.png": "/Anukar-Reddy/anukarreddy-portfolio/static/media/menu.d8b037e012327ac51b27.png",
+    "static/media/image4.jpeg": "/Anukar-Reddy/anukarreddy-portfolio/static/media/image4.291c70571b37c7b39e06.jpeg",
+    "index.html": "/Anukar-Reddy/anukarreddy-portfolio/index.html",
+    "main.b88cfd9f.css.map": "/Anukar-Reddy/anukarreddy-portfolio/static/css/main.b88cfd9f.css.map",
+    "main.906b65c2.js.map": "/Anukar-Reddy/anukarreddy-portfolio/static/js/main.906b65c2.js.map",
+    "787.f714783d.chunk.js.map": "/Anukar-Reddy/anukarreddy-portfolio/static/js/787.f714783d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b88cfd9f.css",
+    "static/js/main.906b65c2.js"
+  ]
+}

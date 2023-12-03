@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'poppins',sans-serif;
+
+}
+body{
+    background: rgb(30,30,30);
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+
+}
+.background-clip{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    
+    z-index: -2;
+} 
